@@ -24,22 +24,22 @@ const Skill = () => {
                 <h2>Frontend</h2>
                 <div className={styles.skills}>
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/react.png" alt='react'/>
+                        <img className={styles.logoImg} src="/assets/skills/react.png" alt='react'/>
                         <p>ReactJS</p>
                     </div>
 
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/html.png" alt='html'/>
+                        <img className={styles.logoImg} src="/assets/skills/html.png" alt='html'/>
                         <p>HTML</p>
                     </div>
 
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/css.png" alt='css'/>
+                        <img className={styles.logoImg} src="/assets/skills/css.png" alt='css'/>
                         <p>CSS</p>
                     </div>
 
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/js.png" alt='javascript'/>
+                        <img className={styles.logoImg} src="/assets/skills/js.png" alt='javascript'/>
                         <p>Javascript</p>
                     </div>
                 </div>
@@ -49,17 +49,17 @@ const Skill = () => {
                 <h2>Backend</h2>
                 <div className={styles.skills}>
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/node.png" alt='nodejs'/>
+                        <img className={styles.logoImg} src="/assets/skills/node.png" alt='nodejs'/>
                         <p>NodeJS</p>
                     </div>
 
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/express.png" alt='expressjs'/>
+                        <img className={styles.logoImg} src="/assets/skills/express.png" alt='expressjs'/>
                         <p>ExpressJS</p>
                     </div>
 
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/mongo.png" alt='mongodb'/>
+                        <img className={styles.logoImg} src="/assets/skills/mongo.png" alt='mongodb'/>
                         <p>MongoDB</p>
                     </div>
 
@@ -70,22 +70,22 @@ const Skill = () => {
                 <h2>Tools</h2>
                 <div className={styles.skills}>
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/github.png" alt='github'/>
+                        <img className={styles.logoImg} src="/assets/skills/github.png" alt='github'/>
                         <p>Github</p>
                     </div>
 
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/postman.png" alt='Postman'/>
+                        <img className={styles.logoImg} src="/assets/skills/postman.png" alt='Postman'/>
                         <p>Postman</p>
                     </div>
 
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/docker.png" alt='docker'/>
+                        <img className={styles.logoImg} src="/assets/skills/docker.png" alt='docker'/>
                         <p>Docker</p>
                     </div>
 
                     <div className={styles.logo}>
-                        <img className={styles.logoImg} src="/src/assets/skills/cloud.png" alt='aws'/>
+                        <img className={styles.logoImg} src="/assets/skills/cloud.png" alt='aws'/>
                         <p>Aws</p>
                     </div>
                 </div>

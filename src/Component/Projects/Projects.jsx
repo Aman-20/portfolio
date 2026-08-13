@@ -10,7 +10,7 @@ const Projects = () => {
             
         <div className={styles.card}>
 
-            <img className={styles.cardimg} src="/src/assets/projects/project1.png" alt='project' />
+            <img className={styles.cardimg} src="/assets/projects/project1.png" alt='project' />
 
             <p className={styles.cardtitle}>URL Shortener</p>
 
@@ -32,7 +32,7 @@ const Projects = () => {
 
         <div className={styles.card}>
             
-            <img className={styles.cardimg} src="/src/assets/projects/project2.png" alt='project' />
+            <img className={styles.cardimg} src="/assets/projects/project2.png" alt='project' />
 
             <p className={styles.cardtitle}>Blog Platform</p>
 
@@ -55,7 +55,7 @@ const Projects = () => {
 
         <div className={styles.card}>
             
-            <img className={styles.cardimg} src="/src/assets/projects/project3.png" alt='project' />
+            <img className={styles.cardimg} src="/assets/projects/project3.png" alt='project' />
 
             <p className={styles.cardtitle}>Pixabay Image Search</p>
 

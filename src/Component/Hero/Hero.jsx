@@ -24,7 +24,7 @@ const Hero = () => {
             
         </div>
 
-        <img className={styles.img} src="/src/assets/hero/hero1.png" alt='my-image' />
+        <img className={styles.img} src="/assets/hero/hero1.png" alt='my-image' />
 
     </section>
   )

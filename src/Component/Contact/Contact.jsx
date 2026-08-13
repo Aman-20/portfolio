@@ -13,17 +13,17 @@ const Contact = () => {
         <div className={styles.right}>
 
             <div className={styles.link}>
-                <img src="/src/assets/contact/linkedin.png" alt='linkedin' />
+                <img src="/assets/contact/linkedin.png" alt='linkedin' />
                 <a href="https://www.linkedin.com/in/aman-nishad-dev" target='_blank' >LinkedIn</a>
             </div>
 
             <div className={styles.link}>
-                <img src="/src/assets/contact/github.png" alt='github' />
+                <img src="/assets/contact/github.png" alt='github' />
                 <a href="https://github.com/Aman-20" target='_blank'>Github</a>
             </div>
 
             <div className={styles.link}>
-                <img src="/src/assets/contact/email.png" alt='gmail' />
+                <img src="/assets/contact/email.png" alt='gmail' />
                 <a href="mailto:aman.nishad.dev@gmail.com">Email Me</a>
             </div>
 
