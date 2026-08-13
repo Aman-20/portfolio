@@ -1,0 +1,51 @@
+@import "../../vars.css";
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 49px;
+    gap: 10%;
+    padding: 5%;
+
+    background: var(--color-dark);
+}
+
+.left{
+    font-size: 2rem;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    gap: 1.1rem;
+}
+
+.link{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.link a{
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: white;
+}
+
+.link img{
+    width: 40px;
+    height: 40px;
+}
+
+@media screen and (max-width:830px){
+    .container{
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+    .left{
+        text-align: center;
+    }
+}
