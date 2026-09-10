@@ -47,5 +47,17 @@
     }
     .left{
         text-align: center;
+        font-size: 1.2rem;
+    }
+    .link{
+        gap: 0.5rem;
+    }
+    .link a{
+        font-size: 1rem;
+    }
+    
+    .link img{
+        width: 30px;
+        height: 30px;
     }
 }

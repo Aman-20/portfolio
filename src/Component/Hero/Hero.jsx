@@ -12,7 +12,7 @@ const Hero = () => {
 
             <p className={styles.subdesc}>Full Stack Developer & BCA Student</p>
 
-            <p className={styles.desc}>Building modern web application with React, Node.js and JavaScript. Open to internships and entry-level software development opportunities</p>
+            <p className={styles.desc}>Building modern web application with React, Node.js and JavaScript. Open to internships and software development opportunities</p>
 
             <div className={styles.allbtn}>
 
@@ -24,7 +24,7 @@ const Hero = () => {
             
         </div>
 
-        <img className={styles.img} src="/assets/hero/hero1.png" alt='my-image' />
+        <img className={styles.img} src="/assets/hero/hero1.jpg" alt='my-image' />
 
     </section>
   )
