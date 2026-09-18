@@ -18,7 +18,7 @@ const Hero = () => {
 
             <Link className={styles.btn} to='projects' smooth={true} duration={500}>Projects</Link>
 
-            <a className={styles.btn} href="https://res.cloudinary.com/dp55vvd7j/image/upload/v1786614394/userFiles/fu7wmshqepri3pbk3jrq.jpg" target='_blank' title='Resume'>Resume</a>
+            <a className={styles.btn} href="https://res.cloudinary.com/dp55vvd7j/image/upload/v1789739232/userFiles/lecspqzotb5abtgfmi2x.pdf" target='_blank' title='Resume'>Resume</a>
 
             </div>
             
